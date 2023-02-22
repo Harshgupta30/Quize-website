@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div id="header">
+        <h1 id="top">Quiz</h1>
+    </div>
+    <div id="final"></div>
+    <div class="question">
+        <ul id="anssheet"></ul>
+        <div id="t">
+            <h1 id="ques"></h1>
+            <ul id="list">
+                <li><input type="radio" id="op1" name="ans" value=""><label for="op1" id="opt1"></label></li><br>
+                <li><input type="radio" id="op2" name="ans" value=""><label for="op2" id="opt2"></label></li><br>
+                <li><input type="radio" id="op3" name="ans" value=""><label for="op3" id="opt3"></label></li><br>
+                <li><input type="radio" id="op4" name="ans" value=""><label for="op4" id="opt4"></label></li>
+            </ul>
+            <div class="empty" id="status"></div>
+        </div>
+        <button class="yellow" id="btn" onclick="submit()">submit</button>
+
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
