@@ -15,3 +15,4 @@ Next, you would use CSS to style the webpage, making it visually appealing and u
 Finally, you would use JavaScript to add interactivity and functionality to the quiz website. This would involve validating user input, calculating scores, and displaying results.
 
 Overall, a quiz website based on HTML, CSS, and JS is a great way to engage users and test their knowledge on a particular subject.
+link https://quizepage-3p34g81nid0lefbf3i4.web.codequotient.com/
